@@ -25,21 +25,21 @@ Here is the entry point of the application, we use python run.py to start it on 
 
 ## Steps to run the Application
 
-1. clone the repository
-2. create a virtual environment
+1. Clone the repository
+2. Create a virtual environment
 ```
 $ python -m venv env
 ```
-3. activate the virtual environment
+3. Activate the virtual environment
 ```
 > py env\Scripts\activate
 ```
-4. install the requirements
+4. Install the requirements
    navigate to folder which has requirements.txt
 ```
 pip install -r requirements.txt
 ```
-5. navigate to folder which contains the run.py file
+5. Navigate to folder which contains the run.py file
 ```
 py run.py
 ```
