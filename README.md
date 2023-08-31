@@ -46,9 +46,9 @@ py run.py
 
 
 ------------------------
-how to run the Tests
+How to run the Tests
 ------------------------
-Go the the folder test/tests.py
+Go the the folder tests/tests.py
 
 use command 
 ```
